@@ -1,0 +1,2 @@
+demo = "demo"
+print(demo)
